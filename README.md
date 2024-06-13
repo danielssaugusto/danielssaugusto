@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**danielssaugusto/danielssaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning cybersecurity
 
-Here are some ideas to get you started:
+  <div>
+    <a href="https://github.com/danielssaugusto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielssaugusto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssaugusto&layout=compact&langs_count=16&theme=tokyonight&hide_border=true" />
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="center" alt="Dani-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  </div>
+##
