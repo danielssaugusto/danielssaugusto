@@ -1,7 +1,7 @@
 ## Hello there ⚜️
 
 - 🔭 I’m currently working on my website
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning JavaScript
 
   <div>
     <a href="https://github.com/danielssaugusto">
