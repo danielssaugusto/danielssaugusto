@@ -1,19 +1,22 @@
-## Hello there
+## Hello there, Welcome to my GitHub page!
 
-- 🔭 I’m currently working on my website
-- 🌱 I’m currently learning JavaScript
+<div align="center">
+  <a href="https://github.com/danielssaugusto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielssaugusto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssaugusto&layout=compact&langs_count=16&theme=tokyonight&hide_border=true" />
+</div>
 
-  <div>
-    <a href="https://github.com/danielssaugusto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielssaugusto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssaugusto&layout=compact&langs_count=16&theme=tokyonight&hide_border=true" />
-  </div>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Dani-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="center" alt="Dani-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  </div>
 ##
+
+<p align="center">
+  <img width="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU0MXNpZHR5cm1sNnA3NzVqNm5ienJ1a2w3dHl5c2pyMWRqaDk3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BLUFxfmhoxorTqoIK5/giphy.webp">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ExaGJkaHBxZTQ0MjQ3MXJ6dTgwb21ocGowenhrZ3h6YzI1dGE5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F8LZ4KRxO83wQ/giphy.webp">
+</p>
