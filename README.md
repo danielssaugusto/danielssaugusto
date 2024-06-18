@@ -2,6 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/danielssaugusto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielssaugusto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssaugusto&layout=compact&langs_count=16&theme=tokyonight&hide_border=true" />
 </div>
 
