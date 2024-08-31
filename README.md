@@ -1,4 +1,18 @@
-## Hello there, Welcome to my GitHub page!
+<img align="right" alt="Desk lamp concept illustration by storyset - www.freepik.com" height="220" src="https://img.freepik.com/free-vector/desk-lamp-concept-illustration_114360-17492.jpg?t=st=1725134728~exp=1725138328~hmac=1bdc8f96f83dddf25e28cc1c0a959f60fa515b43b05f7e03b0bb1a228b9392d6&w=740">
+
+<h1>
+    <a href="https://danielssaugusto.github.io/">
+     <img align="center" alt="Logo Daniel Augusto" width="36px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
+    </a>
+    <span>Daniel Augusto</span>
+</h1>
+
+<p align="justify">I have a degree in Economics and am currently pursuing a degree in Software Engineering. I have skills in web development (JavaScript, HTML5, CSS3, and Figma). Additionally, I have knowledge of back-end programming tools such as SQL databases, Python, C, and PHP.
+
+I am seeking software development positions that offer hands-on experience, guidance, and growth opportunities. I am eager to contribute with my unique perspective, interdisciplinary skills, and unwavering enthusiasm.
+</p>
+
+##
 
 <div align="center">
   <a href="https://github.com/danielssaugusto">
