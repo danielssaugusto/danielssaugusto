@@ -1,11 +1,12 @@
-<img align="right" alt="Desk lamp concept illustration by storyset - www.freepik.com" height="220" src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest?cb=20161020182442">
+<img align="right" alt="GitHub Logo" height="220" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
 
 <h1>
     <a href="https://danielssaugusto.github.io/">
-     <img align="center" alt="Logo Daniel Augusto" width="36px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
+     <img align="center" alt="Logo Daniel Augusto" width="36px" src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest?cb=20161020182442">
     </a>
     <span>Daniel Augusto</span>
 </h1>
+
 
 <p align="justify">I have a degree in Economics and am currently pursuing a degree in Software Engineering. I have skills in web development (JavaScript, HTML5, CSS3, and Figma). Additionally, I have knowledge of back-end programming tools such as SQL databases, Python, C, and PHP.
 
