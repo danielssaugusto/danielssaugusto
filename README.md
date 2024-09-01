@@ -1,4 +1,4 @@
-<img align="right" alt="Desk lamp concept illustration by storyset - www.freepik.com" height="220" src="https://img.freepik.com/free-vector/desk-lamp-concept-illustration_114360-17492.jpg?t=st=1725134728~exp=1725138328~hmac=1bdc8f96f83dddf25e28cc1c0a959f60fa515b43b05f7e03b0bb1a228b9392d6&w=740">
+<img align="right" alt="Desk lamp concept illustration by storyset - www.freepik.com" height="220" src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest?cb=20161020182442">
 
 <h1>
     <a href="https://danielssaugusto.github.io/">
