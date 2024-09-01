@@ -21,6 +21,7 @@ I am seeking software development positions that offer hands-on experience, guid
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssaugusto&layout=compact&langs_count=16&theme=tokyonight&hide_border=true" />
 </div>
 
+<!--
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Dani-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -32,6 +33,7 @@ I am seeking software development positions that offer hands-on experience, guid
   <img align="center" alt="Dani-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Dani-VSCode" heigth="25" width="35" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
+-->
 
 ##
 
