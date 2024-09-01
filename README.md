@@ -1,4 +1,4 @@
-<img align="right" alt="GitHub Logo" height="220" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
+<img align="right" alt="GitHub Logo" height="220" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png">
 
 <h1>
     <a href="https://danielssaugusto.github.io/">
