@@ -1,5 +1,3 @@
-<img align="right" alt="GitHub Logo" height="220" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png">
-
 <h1>
     <a href="https://danielssaugusto.github.io/">
      <img align="center" alt="Logo Daniel Augusto" width="36px" src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest?cb=20161020182442">
