@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <h1 align="center">
-        <a href="[https://danielssaugusto.github.io/](https://github.com/danielssaugusto/)">
+        <a href="https://github.com/danielssaugusto/">
             <img alt="Logo Daniel Augusto" width="36px" src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest?cb=20161020182442">
             <span>Daniel Augusto</span>
         </a>
