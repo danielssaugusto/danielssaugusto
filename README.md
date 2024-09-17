@@ -1,10 +1,11 @@
-<h1>
-    <a href="https://danielssaugusto.github.io/">
-     <img align="center" alt="Logo Daniel Augusto" width="36px" src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest?cb=20161020182442">
-    </a>
-    <span>Daniel Augusto</span>
-</h1>
-
+<div style="text-align: center;">
+    <h1 align="center">
+        <a href="https://danielssaugusto.github.io/">
+            <img alt="Logo Daniel Augusto" width="36px" src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest?cb=20161020182442">
+            <span>Daniel Augusto</span>
+        </a>
+    </h1>
+</div>
 
 <p align="justify">I have a degree in Economics and am currently pursuing a degree in Software Engineering. I have skills in web development (JavaScript, HTML5, CSS3, and Figma). Additionally, I have knowledge of back-end programming tools such as SQL databases, Python, C, and PHP.
 
