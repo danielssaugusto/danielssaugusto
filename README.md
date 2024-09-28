@@ -7,9 +7,9 @@
     </h1>
 </div>
 
-<p align="justify">I have a degree in Economics and am currently pursuing a degree in Software Engineering. I have skills in web development (JavaScript, HTML5, CSS3, and Figma). Additionally, I have knowledge of back-end programming tools such as SQL databases, Python, C, and PHP.
+<p align="justify">Graduado em Ciências Econômicas e cursando Engenharia de Software atualmente. Tenho práticas no desenvolvimento web. Possuo conhecimentos em ferramentas de programação back-end como Java, SQL, C, python e PHP.
 
-I am seeking software development positions that offer hands-on experience, guidance, and growth opportunities. I am eager to contribute with my unique perspective, interdisciplinary skills, and unwavering enthusiasm.
+Estou em busca de cargos de Desenvolvimento de Software que ofereçam experiência prática, orientação e oportunidades de crescimento. Ansioso para contribuir com meu entusiasmo, habilidades interdisciplinares e perspectiva única.
 </p>
 
 ##
