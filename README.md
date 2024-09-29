@@ -14,7 +14,7 @@ Estou em busca de cargos de Desenvolvimento de Software que ofereçam experiênc
 
 ##
 <div align="center">
-    <img height="200em" src="https://streak-stats.demolab.com/?user=danielssaugusto&theme=tokyonight&background=000&border=5800FF&dates=FFF)](https://git.io/streak-stats" />
+    <img height="220em" src="https://streak-stats.demolab.com/?user=danielssaugusto&theme=tokyonight&background=000&border=5800FF&dates=FFF)](https://git.io/streak-stats" />
 </div>
 
 <div align="center">
