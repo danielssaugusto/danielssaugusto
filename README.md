@@ -1,13 +1,25 @@
 <div style="text-align: center;">
     <h1 align="center">
         <a href="https://github.com/danielssaugusto/">
-            <span>Daniel Augusto</span>
+            <span>🐦‍⬛ Olá, eu sou o Daniel!</span>
         </a>
     </h1>
 </div>
 
-<p align="justify">Estou cursando Engenharia de Software, com foco no desenvolvimento back-end. Tenho qualificação técnica em desenvolvimento Web, banco de dados e aplicações, além de habilidades interpessoais no trabalho em equipe e comunicação.
+<p align="justify">Sou Engenheiro do Software com foco no desenvolvimento back-end e segurança da aplicação. Tenho qualificação técnica em desenvolvimento Web, banco de dados e APIs.
+    Uso processos ágeis e tecnologias que garantem escalabilidade, sempre realizando melhorias e pensando em upgrades.
 </p>
+
+<h2>📑 Sobre mim</h2>
+<ul> 
+    <li>💻 Engenheiro de Software, garantindo qualidade e eficiência em cada etapa do projeto.</li> 
+    <li>🔐 Segurança e backup: criação de protocolos, desenvolvimento de scripts para distribuições Linux e uso avançado de ferramentas de versionamento (Git e GitHub).</li> 
+    <li>📝 Especialista em documentação de projetos, assegurando clareza e padronização.</li> 
+    <li>🌐 Experiência sólida com redes e administração de servidores.</li> 
+    <li>🧪 Conhecimento aprofundado em testes automatizados para validação de software.</li> 
+    <li>🛠️ Ferramentas técnicas: MySQL, PostgreSQL, SQL Server, Oracle, IntelliJ IDEA, PyCharm, VS Code.</li> </ul>
+
+<h2>🚀 Tecnologias e Ferramentas</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
