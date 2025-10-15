@@ -1,7 +1,7 @@
 <div style="text-align: center;">
     <h1 align="center">
         <a href="https://github.com/danielssaugusto/">
-            <span>🐦‍⬛ Olá, eu sou o Daniel!</span>
+            <span>Olá, eu sou o Daniel!</span>
         </a>
     </h1>
 </div>
