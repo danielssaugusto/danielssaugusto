@@ -1,12 +1,12 @@
 <div style="text-align: center;">
     <h1 align="center">
         <a href="https://github.com/danielssaugusto/">
-            <span>Olá, eu sou o Daniel!</span>
+            <span>Olá, eu sou o Daniel Augusto!</span>
         </a>
     </h1>
 </div>
 
-<p align="justify">Sou Engenheiro do Software com foco no desenvolvimento back-end e segurança da aplicação. Tenho qualificação técnica em desenvolvimento Web, banco de dados e APIs.
+<p align="justify">Sou Engenheiro de Software com foco no desenvolvimento back-end e segurança da aplicação. Tenho qualificação técnica em desenvolvimento Web, banco de dados e APIs.
     Uso processos ágeis e tecnologias que garantem escalabilidade, sempre realizando melhorias e pensando em upgrades.
 </p>
 
