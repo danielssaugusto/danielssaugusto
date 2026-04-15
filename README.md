@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Minhas Habilidades
+## 🛠️ Minhas Habilidades e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -32,11 +32,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielssaugusto&show_icons=true&bg_color=0b192c&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssaugusto&layout=compact&langs_count=6&bg_color=0b192c&title_color=38bdf8&text_color=ffffff&hide_border=true" alt="Linguagens Mais Usadas" />
-</div>
 
 <div align="center" style="margin-top: 10px;">
   <img height="180em" src="https://streak-stats.demolab.com/?user=danielssaugusto&background=0b192c&stroke=ffffff&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
