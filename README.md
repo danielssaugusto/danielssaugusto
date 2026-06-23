@@ -2,23 +2,23 @@ Estudando **Engenharia de Software** pelo [Instituto Infnet](https://www.infnet.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
-#### 🚀 Linguagens & Frameworks
+#### Linguagens & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
 
-#### 🗄️ Banco de Dados
+#### Banco de Dados
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-#### 🔧 DevOps, OS & IDES
+#### DevOps, OS & IDES
 <p align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -40,9 +40,7 @@ Estudando **Engenharia de Software** pelo [Instituto Infnet](https://www.infnet.
 ### 🤝 Conecte-se comigo
 
 <a href="mailto:daniel.asilva@al.infnet.edu.br"><img src="https://img.shields.io/badge/Email-Academic-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<!-- Descomente e adicione seu link do LinkedIn abaixo se quiser: -->
-<!-- <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-
+<a href="https://www.linkedin.com/in/danielsaugusto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 ---
 
 <div align="center" style="margin-top: 15px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -55,6 +53,8 @@ Estudando **Engenharia de Software** pelo [Instituto Infnet](https://www.infnet.
 
 <br>
 
+<!--
 <div align="center">
   <img width="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A0OHJiaGFhejkxZ3pxOHNtNnRxbHgzYndxeGh4dTlhejd3NDBuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yl3XErRq8qmmA/giphy.webp" alt="Coding Animation">
 </div>
+-->
