@@ -45,10 +45,10 @@ Estudando **Engenharia de Software** pelo [Instituto Infnet](https://www.infnet.
 
 <div align="center" style="margin-top: 15px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- Seu card de Streak atual -->
-  <img height="175em" src="https://streak-stats.demolab.com/?user=danielssaugusto&background=0b192c&stroke=ffffff&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  <img height="170em" src="https://streak-stats.demolab.com/?user=danielssaugusto&background=0b192c&stroke=ffffff&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   
   <!-- NOVO: Card de Estatísticas Gerais (Mesmo Tema) -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=danielssaugusto&theme=tokyonight&bg_color=0b192c&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&show_icons=true" alt="Estatísticas do GitHub" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielssaugusto&theme=tokyonight&bg_color=0b192c&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&show_icons=true" alt="Estatísticas do GitHub" />
 </div>
 
 <br>
