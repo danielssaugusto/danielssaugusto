@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Daniel Augusto
+# Hi, I'm Daniel Augusto
 
-### ☕ Java Backend Developer in Progress
+### <img src="https://skillicons.dev/icons?i=java" width="25" alt="Java"> Java Backend Developer in Progress
 
 Building **REST APIs**, learning **Software Engineering**, and exploring **Application Security**.
 
