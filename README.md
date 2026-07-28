@@ -67,36 +67,6 @@ public final class DanielAugusto extends BackendDeveloper {
 
 ---
 
-# Current Focus
-
-```bash
-$ git config --list
-
-developer.name=Daniel Augusto
-
-developer.role=Backend Developer
-
-developer.location=Brazil
-
-language.primary=Java
-
-framework=Spring Boot
-
-database=PostgreSQL
-
-architecture=Layered
-
-testing=JUnit5,Mockito
-
-security=Application Security (learning)
-
-current.project=EverAfter API
-
-status=Building scalable REST APIs
-```
-
----
-
 # GitHub Activity
 
 <div align="center">
