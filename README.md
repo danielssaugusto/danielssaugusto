@@ -57,23 +57,17 @@ public final class DanielAugusto extends BackendDeveloper {
 
 ---
 
-# Tech Stack
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=danielssaugusto&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat"/>
+  </a>
+</p>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,linux,idea,vscode&perline=9"/>
 
 </div>
-
----
-
-# GitHub Activity
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=danielssaugusto&theme=tokyonight&exclude_days=Sun%2CSat"/>
-  </a>
-</p>
 
 ---
 
