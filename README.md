@@ -114,8 +114,6 @@ linkedin=https://linkedin.com/in/danielsaugusto
 "profile.conf" 16L, 312B
 ```
 
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:172554,50:111827,100:0B1220"/>
