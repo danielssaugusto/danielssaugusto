@@ -59,7 +59,7 @@ public final class DanielAugusto extends BackendDeveloper {
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=danielssaugusto&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat"/>
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=danielssaugusto&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat"/>
   </a>
 </p>
 
