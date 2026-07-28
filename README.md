@@ -1,42 +1,159 @@
 <div align="center">
 
-# Hi, I'm Daniel Augusto
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:0B1220,50:111827,100:172554&text=Daniel%20Augusto&fontColor=E5E7EB&fontSize=46&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot&descAlignY=64"/>
 
-### <img src="https://skillicons.dev/icons?i=java" width="25" alt="Java"> Java Backend Developer in Progress
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1800&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+scalable+REST+APIs;Software+Engineering+Student;Clean+Architecture+%7C+SOLID+%7C+Testing;Learning+Application+Security)](https://git.io/typing-svg)
 
-Building **REST APIs**, learning **Software Engineering**, and exploring **Application Security**.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsaugusto/)
-[![Email](https://img.shields.io/badge/Email-Academic-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.asilva@al.infnet.edu.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=60A5FA)](https://tacheon.com.br/danielsaugusto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/danielsaugusto)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=60A5FA)](https://github.com/danielssaugusto)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=60A5FA)](mailto:daniel.asilva@al.infnet.edu.br)
 
 </div>
 
 ---
 
-## Featured Projects
+## `> whoami`
 
-| Project | Description |
-|---------|-------------|
-| **EverAfter API** | Wedding management REST API built with Java & Spring Boot *(In Progress)*. |
-| **Java Unit Testing** | Practical examples using JUnit 5 and Mockito. |
-| **Project Saturday** | Python voice assistant *(In Progress)*. |
+```java
+package dev.danielaugusto;
+
+public final class DanielAugusto extends BackendDeveloper {
+
+    public DanielAugusto() {
+        super(
+            "Java",
+            "Spring Boot",
+            "Backend Development"
+        );
+    }
+
+    @Override
+    protected String currentRole() {
+        return "Software Engineering Student";
+    }
+
+    @Override
+    protected List<String> specializations() {
+        return List.of(
+            "REST APIs",
+            "Software Architecture",
+            "Clean Code",
+            "SOLID",
+            "Application Security"
+        );
+    }
+
+    @Override
+    protected Project currentProject() {
+        return new EverAfterAPI();
+    }
+}
+```
+
+<br clear="right"/>
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,docker,git,linux,idea,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,linux,idea,vscode&perline=9"/>
 
-</p>
+</div>
+
+---
+
+# Current Focus
+
+```bash
+$ git config --list
+
+developer.name=Daniel Augusto
+
+developer.role=Backend Developer
+
+developer.location=Brazil
+
+language.primary=Java
+
+framework=Spring Boot
+
+database=PostgreSQL
+
+architecture=Layered
+
+testing=JUnit5,Mockito
+
+security=Application Security (learning)
+
+current.project=EverAfter API
+
+status=Building scalable REST APIs
+```
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=danielssaugusto&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA"/>
+
+</div>
+
+---
+
+# Environment
+
+```vim
+~/developer/profile.conf
+──────────────────────────────────────────────────────────────
+
+name=Daniel Augusto
+
+role=Backend Developer
+
+status=Open to Opportunities
+
+language=Java
+
+framework=Spring Boot
+
+database=PostgreSQL
+
+architecture=REST APIs
+
+testing=JUnit5,Mockito
+
+editor=IntelliJ IDEA
+
+os=Linux
+
+portfolio=https://tacheon.com.br
+
+github=https://github.com/danielssaugusto
+
+linkedin=https://linkedin.com/in/danielsaugusto
+
+~
+
+~
+
+~
+
+~
+
+"profile.conf" 16L, 312B
+```
 
 ---
 
 <div align="center">
 
-### 🎯 Currently Learning
-
-`Spring Boot` • `JUnit 5` • `Mockito` • `Docker` • `Application Security`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:172554,50:111827,100:0B1220"/>
 
 </div>
