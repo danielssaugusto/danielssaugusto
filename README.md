@@ -12,8 +12,11 @@
 [![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=60A5FA)](mailto:daniel.asilva@al.infnet.edu.br)
 
 </div>
-
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## `> whoami`
 
@@ -53,31 +56,15 @@ public final class DanielAugusto extends BackendDeveloper {
 }
 ```
 
-<br clear="right"/>
+</td>
 
----
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=danielssaugusto&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat"/>
-  </a>
-</p>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,linux,idea,vscode&perline=9"/>
-
-</div>
-
----
-
-# Environment
+## `> Environment`
 
 ```vim
 ~/developer/profile.conf
-──────────────────────────────────────────────────────────────
-
-name=Daniel Augusto
+──────────────────────────────────────────
 
 role=Backend Developer
 
@@ -97,22 +84,40 @@ editor=IntelliJ IDEA
 
 os=Linux
 
-portfolio=https://tacheon.com.br
+portfolio=https://tacheon.com.br/danielsaugusto
 
 github=https://github.com/danielssaugusto
 
 linkedin=https://linkedin.com/in/danielsaugusto
-
 ~
 
 ~
 
 ~
 
-~
-
-"profile.conf" 16L, 312B
+"profile.conf" 12L, 312B
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=danielssaugusto&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat"/>
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,linux,idea,vscode&perline=9"/>
+
+</div>
+
+---
 
 <div align="center">
 
