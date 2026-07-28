@@ -69,11 +69,11 @@ public final class DanielAugusto extends BackendDeveloper {
 
 # GitHub Activity
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=danielssaugusto&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA"/>
-
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=danielssaugusto&theme=tokyonight&exclude_days=Sun%2CSat"/>
+  </a>
+</p>
 
 ---
 
