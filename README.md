@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:0B1220,50:111827,100:172554&text=Daniel%20Augusto&fontColor=E5E7EB&fontSize=46&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot&descAlignY=74"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1800&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+scalable+REST+APIs;Software+Engineering+Student;Clean+Architecture+%7C+SOLID+%7C+Testing;Learning+Application+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1800&color=60A5FA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Lifelog+e+Roadmap)](https://git.io/typing-svg)
 
 <br>
 
@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=60A5FA)](mailto:daniel.asilva@al.infnet.edu.br)
 
 </div>
----
 
 <table>
 <tr>
